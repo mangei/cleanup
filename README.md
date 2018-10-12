@@ -17,4 +17,4 @@ This way, it is easy to cleanup your workspaces, expecially if you have many and
 
 
 Notes:
- - pathes just equal or below the location of `.cleanup` are allowed in the file
+ - paths just equal or below the location of `.cleanup` are allowed in the file
