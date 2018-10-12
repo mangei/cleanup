@@ -14,3 +14,7 @@ Examples:
 The runner will run through the directories and search vor `.cleanup` files, read its content and delete the paths.
 
 This way, it is easy to cleanup your workspaces, expecially if you have many and get back the (disk) space you need.
+
+
+Notes:
+ - pathes just equal or below the location of `.cleanup` are allowed in the file
