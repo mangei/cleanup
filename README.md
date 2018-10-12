@@ -8,8 +8,8 @@ The `.cleanup` file contains directories or files (paths) that can be cleaned/de
 Examples:
  - `node_modules` with node, npm, yarn
  - `target` with maven
- - `build` with intelij IDEA
- - ...
+ - `build` with gradle
+ - `out`, ...
  
 The runner will run through the directories and search vor `.cleanup` files, read its content and delete the paths.
 
