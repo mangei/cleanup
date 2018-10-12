@@ -1,0 +1,2 @@
+# cleanup
+Cleanup your workspaces
