@@ -20,7 +20,7 @@ Notes:
  - paths just equal or below the location of `.cleanup` are allowed in the file
  - also be able to use `package.json` to place the configuration
  - option to auto-delete
-  - `node_modules` if `package.json` is present
-  - `target` if `pom.xml` is present
-  - `build` if `build.gradle` is present
-  - ...
+   - `node_modules` if `package.json` is present
+   - `target` if `pom.xml` is present
+   - `build` if `build.gradle` is present
+   - ...
