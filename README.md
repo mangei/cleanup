@@ -24,3 +24,11 @@ Notes:
    - `target` if `pom.xml` is present
    - `build` if `build.gradle` is present
    - ...
+
+## install
+
+`npm install rimraf``
+
+## run
+
+`node cleanup.js
