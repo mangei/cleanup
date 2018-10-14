@@ -27,8 +27,8 @@ Notes:
 
 ## install
 
-`npm install rimraf``
+`npm install rimraf`
 
 ## run
 
-`node cleanup.js
+`node cleanup.js`
